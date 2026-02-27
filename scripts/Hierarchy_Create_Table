@@ -1,0 +1,19 @@
+--CREATE TABLE employees (
+--    employeeAD varchar(100) PRIMARY KEY,
+--    managerAD varchar(100)
+--);
+
+--INSERT INTO employees (employeeAD, managerAD)
+--VALUES 
+--('Jan', NULL),
+--('Michael', 'Jan'),
+--('Dwight', 'Michael'),
+--('Jim', 'Michael'),
+--('Angela', 'Michael'),
+--('Kevin', 'Angela'),
+--('Oscar', 'Angela');
+--SELECT * FROM employees
+
+
+
+    
